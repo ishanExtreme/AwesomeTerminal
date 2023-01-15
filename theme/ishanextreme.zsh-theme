@@ -1,4 +1,5 @@
 #!/bin/env zsh
+# Theme Credit: https://github.com/stefanjudis/dotfiles/blob/primary/config/oh-my-zsh/stefanjudis.zsh-theme
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}git:(%{$fg[red]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
